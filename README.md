@@ -126,6 +126,11 @@ Mạch hoạt động như một công tắc điện tử. Khi điều khiển b
 
 - [Tải chương trình mẫu tại đây](<arduino/MKE_M06_PWM_Control copy/MKE_M06_PWM_Control.ino>)
 
+- Tùy chọn thêm nguồn phụ cho tải dòng cao > 700mA
+
+<p align="center"> <img src="image/MKE-M06_6.png" alt="" /> </p>
+
+
 
 
 ## Hỗ trợ và liên hệ
