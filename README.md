@@ -26,7 +26,7 @@ Mạch hoạt động như một công tắc điện tử. Khi điều khiển b
 - Thuộc hệ sinh thái phần cứng Robotics MakerEdu, tương thích tốt nhất khi sử dụng với các mạch điều khiển trung tâm của MakerEdu và MakerEdu Shield.
 
 ## Kích thước
-<p align="center"> <img src="image/MKE-M06_3.png" alt="" /> </p>
+<p align="center"> <img src="image/MKE-M06_3.PNG" alt="" /> </p>
 
 
 <!-- ![](image/MKE-M06_3.PNG) -->
