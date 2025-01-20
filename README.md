@@ -1,9 +1,10 @@
 # Mạch đóng ngắt tải MKE-M06-5V-Fet-Module 
 
 ![](/image/MKE-M06_1.png)
-![](image/MKE-M06_2.png)
-![](image/image 13641.png)
-![](image/image 13642.png)
+<p align="center"> <img src="image/MKE-M06_1.png" alt="Mặt trước" /> </p>
+<p align="center"> <img src="image/MKE-M06_2.png" alt="Mặt sau" /> </p>
+
+
 ## Giới thiệu
 
 Mạch đóng ngắt tải MKE-M06-5V-Fet-Module  được sử dụng như một mạch công suất mosfet được điều khiển bằng tín hiệu từ mạch điều khiển, mạch có thể đóng ngắt dòng điện, tín hiệu điện một chiều (DC), mạch được thiết kế để điều khiển bật tắt đèn LED công suất, quạt hoặc động cơ bơm,...
@@ -25,12 +26,14 @@ Mạch hoạt động như một công tắc điện tử. Khi điều khiển b
 - Thuộc hệ sinh thái phần cứng Robotics MakerEdu, tương thích tốt nhất khi sử dụng với các mạch điều khiển trung tâm của MakerEdu và MakerEdu Shield.
 
 ## Kích thước
+<p align="center"> <img src="image/MKE-M06_3.png" alt="" /> </p>
 
-![](image/MKE-M06_3.PNG)
+<!-- ![](image/MKE-M06_3.PNG) -->
 
 ## Các chân tín hiệu
+<!-- <p align="center"> <img src="image/MKE-M06_4.png" alt="" /> </p> -->
 
-![](/image/MKE_M05_4.jpg  )
+ <!-- ![](/image/MKE_M05_4.jpg  ) -->
 
 <table><thead>
   <tr>
@@ -110,12 +113,14 @@ Mạch hoạt động như một công tắc điện tử. Khi điều khiển b
 - Tải và cài đặt [phần mềm Arduino tại đây.](https://www.arduino.cc/en/software)
 ### Hướng dẫn sử dụng điều khiển bật tắt bơm chìm mini bằng button
 - sơ đồ kết nối
-![](/image/MKE-M06_4.png)
+<!-- ![](/image/MKE-M06_4.png) -->
+<p align="center"> <img src="image/MKE-M06_4.png" alt="" /> </p>
 - [Tải chương trình mẫu tại đây](arduino/MKE_M06_Button_Control/MKE_M06_Button_Control.ino)
 
 ### Hướng dẫn cấp xung PWM điều khiển tốc độ động cơ 
 - Sơ đồ kết nối
-![](/image/MKE-M06_5.png)
+<p align="center"> <img src="image/MKE-M06_5.png" alt="Mặt trước" /> </p>
+<!-- ![](/image/MKE-M06_5.png) -->
 - [Tải chương trình mẫu tại đây](<arduino/MKE_M06_PWM_Control copy/MKE_M06_PWM_Control.ino>)
 
 
