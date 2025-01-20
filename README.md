@@ -2,7 +2,8 @@
 
 ![](/image/MKE-M06_1.png)
 ![](image/MKE-M06_2.png)
-
+![](image/image 13641.png)
+![](image/image 13642.png)
 ## Giới thiệu
 
 Mạch đóng ngắt tải MKE-M06-5V-Fet-Module  được sử dụng như một mạch công suất mosfet được điều khiển bằng tín hiệu từ mạch điều khiển, mạch có thể đóng ngắt dòng điện, tín hiệu điện một chiều (DC), mạch được thiết kế để điều khiển bật tắt đèn LED công suất, quạt hoặc động cơ bơm,...
