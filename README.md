@@ -116,12 +116,14 @@ Mạch hoạt động như một công tắc điện tử. Khi điều khiển b
 - sơ đồ kết nối
 <!-- ![](/image/MKE-M06_4.png) -->
 <p align="center"> <img src="image/MKE-M06_4.png" alt="" /> </p>
+
 - [Tải chương trình mẫu tại đây](arduino/MKE_M06_Button_Control/MKE_M06_Button_Control.ino)
 
 ### Hướng dẫn cấp xung PWM điều khiển tốc độ động cơ 
 - Sơ đồ kết nối
 <p align="center"> <img src="image/MKE-M06_5.png" alt="Mặt trước" /> </p>
 <!-- ![](/image/MKE-M06_5.png) -->
+
 - [Tải chương trình mẫu tại đây](<arduino/MKE_M06_PWM_Control copy/MKE_M06_PWM_Control.ino>)
 
 
