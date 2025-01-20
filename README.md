@@ -1,6 +1,6 @@
 # Mạch đóng ngắt tải MKE-M06-5V-Fet-Module 
 
-![](/image/MKE-M06_1.png)
+<!-- ![](/image/MKE-M06_1.png) -->
 <p align="center"> <img src="image/MKE-M06_1.png" alt="Mặt trước" /> </p>
 <p align="center"> <img src="image/MKE-M06_2.png" alt="Mặt sau" /> </p>
 
@@ -27,6 +27,7 @@ Mạch hoạt động như một công tắc điện tử. Khi điều khiển b
 
 ## Kích thước
 <p align="center"> <img src="image/MKE-M06_3.png" alt="" /> </p>
+
 
 <!-- ![](image/MKE-M06_3.PNG) -->
 
